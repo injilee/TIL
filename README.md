@@ -1,2 +1,8 @@
-# TIL
-📚 Today I Learned. 공부 기록을 남기다.
+# TIL (📚 Today I Learned. 공부 기록을 남기다.)
+공부하며 얻은 지식을 공유하기 위해 이곳에 남깁니다. 누구든지 쉽게 볼 수 있도록 작성하고 있습니다.  
+수정할 부분이 있다면 피드백 남겨주세요 :)
+
+## Next.js
+- 노마드코더 Next.js
+
+## Javascript
